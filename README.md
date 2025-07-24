@@ -70,10 +70,11 @@ Lower-priced products tended to sell more, but pricing alone is not a strong pre
 
 ---
 
-🤖 Model Results:
-Model               	R² Score (Accuracy)	      Mean Squared Error (MSE)
-Linear Regression	    0.42 (moderate)	          312.1
-Random Forest	        0.78 (high)	              98.4
+Model Results
+| Model            | R² Score(Accuracy) | MSE      |
+|------------------|--------------------|----------|
+| Linear Regression| 0.42(moderate)     | 312.1    |
+| Random Forest    | 0.78(high)         | 98.4     |
 
 The Random Forest model clearly outperformed the Linear Regression model.
 
