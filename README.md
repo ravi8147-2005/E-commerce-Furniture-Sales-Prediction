@@ -52,12 +52,6 @@ Predict the `sold` count (units sold) using features:
 
 ---
 
-## 📊 Sample Visualizations
-
-<p align="center"> <img src="outputs/charts/price_vs_number_of_items_sold.png" width="400" alt="Price vs Items Sold"/> <img src="outputs/charts/distribution_of_items_sold.png" width="400" alt="Distribution of Items Sold"/> </p> <p align="center"> <img src="outputs/charts/shipping_vs_sold_boxplot.png" width="400" alt="Shipping vs Sold"/> <img src="outputs/charts/correlation_heatmap.png" width="400" alt="Correlation Heatmap"/> </p>
-
----
-
 🔍 Key Findings:
 
 Products with free shipping generally sold more units than those with additional shipping costs.
