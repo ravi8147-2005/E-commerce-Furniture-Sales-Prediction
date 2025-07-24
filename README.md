@@ -62,6 +62,7 @@ Predict the `sold` count (units sold) using features:
 ---
 
 🔍 Key Findings:
+
 Products with free shipping generally sold more units than those with additional shipping costs.
 
 Items with larger discounts (calculated as the percentage difference between original price and sale price) showed a positive correlation with higher sales.
@@ -83,6 +84,7 @@ This suggests that the relationship between product features and sales is non-li
 ---
 
 📌 Business Insights:
+
 Offering Free Shipping can significantly increase product sales.
 
 Optimizing pricing and discounts is essential to driving sales volume.
@@ -92,5 +94,6 @@ The way products are named or described ("productTitle") also influences perform
 ---
 
 📈 Final Note:
+
 With more detailed features like product category, ratings, or reviews, the prediction could be even more accurate. For now, this project proves that basic product attributes can still provide strong predictive power, especially when using advanced models like Random Forest.
 
