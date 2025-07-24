@@ -54,10 +54,7 @@ Predict the `sold` count (units sold) using features:
 
 ## 📊 Sample Visualizations
 
-<p align="center">
-  <img src="outputs/charts/price_vs_sold.png" width="400"/>
-  <img src="outputs/charts/shipping_vs_sold_boxplot.png" width="400"/>
-</p>
+<p align="center"> <img src="outputs/charts/price_vs_number_of_items_sold.png" width="400" alt="Price vs Items Sold"/> <img src="outputs/charts/distribution_of_items_sold.png" width="400" alt="Distribution of Items Sold"/> </p> <p align="center"> <img src="outputs/charts/shipping_vs_sold_boxplot.png" width="400" alt="Shipping vs Sold"/> <img src="outputs/charts/correlation_heatmap.png" width="400" alt="Correlation Heatmap"/> </p>
 
 ---
 
@@ -96,4 +93,15 @@ The way products are named or described ("productTitle") also influences perform
 📈 Final Note:
 
 With more detailed features like product category, ratings, or reviews, the prediction could be even more accurate. For now, this project proves that basic product attributes can still provide strong predictive power, especially when using advanced models like Random Forest.
+
+---
+🙌 Contributions
+
+Contributions and suggestions are welcome! Please open an issue or pull request.
+
+---
+📬 Let's Connect!  
+I’m always open to feedback, collaboration, or freelance data science and data analyst projects.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rudrappakattimani/) 
 
